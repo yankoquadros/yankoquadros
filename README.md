@@ -1,4 +1,4 @@
-## Welcome to the Yanko L. Quadros profile 😁
+## Welcome to Yanko L. Quadros profile 😁
 
  <div>
    <a href="https://github.com/yankoquadros">
